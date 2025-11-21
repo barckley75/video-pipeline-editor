@@ -56,10 +56,7 @@
       "icons/icon.ico"
     ],
     "license": "LICENSE",
-    "resources": [
-      "resources/*",
-      "LICENSE"
-    ],
+    "resources": [],
     "macOS": {
       "minimumSystemVersion": "10.13",
       "entitlements": "entitlements.plist",
