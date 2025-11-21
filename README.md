@@ -60,9 +60,37 @@ Perfect for video engineers, content creators, researchers, and anyone who wants
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v18+)
-- [Rust](https://www.rust-lang.org/tools/install) (latest stable)
-- [FFmpeg](https://ffmpeg.org/download.html) - Must be installed and available in PATH
+- **[Node.js](https://nodejs.org/)** (v18+)
+- **[Rust](https://www.rust-lang.org/tools/install)** (latest stable) — Required for the Tauri backend
+  
+  **macOS/Linux:**
+  ```bash
+  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+  
+  # After installation, restart your terminal or run:
+  source $HOME/.cargo/env
+  ```
+  
+  **Windows:**
+  - Download and run [rustup-init.exe](https://win.rustup.rs/)
+  - Follow the installer prompts
+  - Restart your terminal after installation
+  
+  **Verify installation:**
+  ```bash
+  rustc --version
+  cargo --version
+  ```
+
+- **[FFmpeg](https://ffmpeg.org/download.html)** — Must be installed and available in PATH
+  ```bash
+  # macOS
+  brew install ffmpeg
+  
+  # Ubuntu/Debian
+  sudo apt install ffmpeg
+  ```
+  **Windows:** Download from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/) (recommended) or [ffmpeg.org](https://ffmpeg.org/download.html), extract, and add to PATH.
 
 ### Installation
 
@@ -126,7 +154,7 @@ We're actively looking for contributors! Here are planned features:
 
 We're building a community around this project! 
 
-**Join our Discord**: [Link Coming Soon]
+**Join our Discord**: [https://discord.gg/PFz3zMT5eq](https://discord.gg/PFz3zMT5eq)
 
 ### How to Contribute
 
@@ -167,7 +195,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **GitHub**: [@barckley75](https://github.com/barckley75)
 
-**Discord Community**: [Join us!] (Coming soon)
+**Discord Community**: [Join us!](https://discord.gg/PFz3zMT5eq)
 
 ---
 
