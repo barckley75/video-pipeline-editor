@@ -195,7 +195,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **GitHub**: [@barckley75](https://github.com/barckley75)
 
-**Discord Community**: [Join us!](https://discord.gg/PFz3zMT5eq)
+**Discord Community**: [Join us!](https://discord.com/invite/PFz3zMT5ex)
 
 ---
 
