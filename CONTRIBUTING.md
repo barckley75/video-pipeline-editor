@@ -27,7 +27,7 @@ Be respectful and constructive. We're all here to learn and build something usef
 
 ## Getting Started
 
-1. **Join our Discord** — Best place to discuss ideas before coding
+1. **Join our Discord** — [https://discord.gg/PFz3zMT5eq](https://discord.gg/PFz3zMT5eq) — Best place to discuss ideas before coding
 2. **Check existing issues** — Someone might already be working on it
 3. **Start small** — Good first issues are labeled `good first issue`
 
@@ -197,7 +197,7 @@ Adding a new node requires changes in 3 places:
 
 ## Questions?
 
-- **Discord** — Best for quick questions and discussions
+- **Discord** — [Join here](https://discord.gg/PFz3zMT5ex) — Best for discussions
 - **GitHub Issues** — For bugs and feature requests
 - **GitHub Discussions** — For broader topics
 
